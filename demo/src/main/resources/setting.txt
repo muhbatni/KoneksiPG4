@@ -1,0 +1,4 @@
+user=postgres
+password=123
+database=BDL_Tiket
+host=localhost:5432
